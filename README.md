@@ -1,5 +1,4 @@
 ### Password-Generator
-//===============================================
 <br>
 Ever thought  about creating a password generator? Well, you're in luck!
 This is an open source project that allows users to generate strong passwords. 
